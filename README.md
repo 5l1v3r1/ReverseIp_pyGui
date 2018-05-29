@@ -3,4 +3,4 @@
 <br>
 
 
-<center><a href="" target="_blank"><img src="https://raw.githubusercontent.com/04x/ReverseIp_pyGui/master/ico/demo.PNG" alt="IMAGE ALT TEXT HERE" width="340" height="350" border="30" /></a></center>
+<center><a href="" target="_blank"><img src="https://raw.githubusercontent.com/04x/ReverseIp_pyGui/master/ico/demo.PNG" alt="IMAGE ALT TEXT HERE" width="350" height="450" border="30" /></a></center>
